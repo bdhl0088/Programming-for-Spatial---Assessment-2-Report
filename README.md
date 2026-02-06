@@ -37,8 +37,11 @@ Car and van availability contains data per household, to help identify vulnerabl
 
 # References 
 Griffin, A., Kay, A., Sayers, P., Bell, V., Stewart, E. and Carr, S., 2022. Widespread flooding dynamics changing under climate change: characterising floods using UKCP18. Hydrology & Earth System Sciences Discussions.
+
 Met Office (2026) Available at: Storm Chandra: How the storm unfolded and where the heaviest rain fell - Met Office (Accessed: 30/01/2026)
+
 Rentschler, J., Avner, P., Marconcini, M., Su, R., Strano, E., Vousdoukas, M. and Hallegatte, S., 2023. Global evidence of rapid urban growth in flood zones since 1985. Nature, 622(7981), pp.87-92.
+
 Sayers, P., Penning-Rowsell, E.C. and Horritt, M., 2018. Flood vulnerability, risk, and social disadvantage: current and future patterns in the UK. Regional environmental change, 18(2), pp.339-352.
 
 
